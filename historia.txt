@@ -1,4 +1,4 @@
 esta es la primera version de este archivo
-esta es el cambio creado en este archivo
 
-nueva linea agregada al archivo
+esta es la nueva linea agregada despues de realizar checkout para crear un nuevo branch del archivo
+
